@@ -15,7 +15,7 @@ public class Main {
     public static void main(String[] args) {
         // taskImmutable();
         // taskRecord();
-        taskLambda();
+        // taskLambda();
     }
 
     private static void taskImmutable() {
